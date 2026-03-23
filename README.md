@@ -106,6 +106,28 @@ Founder & System Architect
 - Designed platform modules
 
 ---
+---
+
+## 📂 Repository Structure
+docs/ → system documentation
+architecture/ → system design and flows
+screenshots/ → UI and platform visuals
+samples/ → example data and payloads
+
+
+---
+
+## 🧪 Example Data
+
+Sample invoice data is available in:
+
+`samples/sample_invoice.json`
+
+---
+
+## 📸 Platform Preview
+
+See `/screenshots` folder for UI prototypes and workflow screens.
 
 ## 🛣️ Roadmap
 
