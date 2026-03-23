@@ -148,3 +148,35 @@ Key platform interfaces can be found in the `/screenshots` folder:
 - Analytics dashboard
 
 👉 See: `/screenshots`
+
+## Diagram:
+                ┌──────────────────────────┐
+                │     Vendor Portal        │
+                │  (Onboarding / Upload)   │
+                └────────────┬─────────────┘
+                             │
+                             ▼
+                ┌──────────────────────────┐
+                │   AI Processing Engine   │
+                │ (OCR + Data Extraction)  │
+                └────────────┬─────────────┘
+                             │
+                             ▼
+                ┌──────────────────────────┐
+                │   Validation Engine      │
+                │ (Rules / PO / Tax Check) │
+                └────────────┬─────────────┘
+                             │
+                             ▼
+                ┌──────────────────────────┐
+                │ ERP Integration Layer    │
+                │ (SAP / Odoo / Oracle)    │
+                └────────────┬─────────────┘
+                             │
+                             ▼
+                ┌──────────────────────────┐
+                │   Analytics Dashboard    │
+                │ (KPIs / Monitoring)      │
+                └──────────────────────────┘
+          **
+
