@@ -136,3 +136,15 @@ See `/screenshots` folder for UI prototypes and workflow screens.
 - Multi-tenant SaaS deployment
 - Advanced analytics and forecasting
   
+---
+
+## 📸 Platform Screenshots
+
+Key platform interfaces can be found in the `/screenshots` folder:
+
+- Vendor onboarding portal
+- AI invoice processing engine
+- Validation dashboard
+- Analytics dashboard
+
+👉 See: `/screenshots`
