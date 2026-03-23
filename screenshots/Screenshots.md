@@ -19,4 +19,3 @@ These interfaces demonstrate the system design and workflow automation capabilit
 ## Validation Dashboard
 
 ## Analytics Dashboard
-
