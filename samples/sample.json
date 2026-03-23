@@ -1,1 +1,9 @@
-# Documentation
+{
+  "invoice_number": "INV-2024-001",
+  "supplier": "Global Supplies Ltd",
+  "invoice_date": "2024-02-15",
+  "amount": 2500.00,
+  "vat": 125.00,
+  "currency": "USD",
+  "status": "Pending Validation"
+}
